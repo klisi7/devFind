@@ -1,0 +1,13 @@
+{
+    "name": "Torok Kristof",
+    "location": "Budapest, Hungary",
+    "bio": "I am a frontend developer",
+    "avatar": "https://avatars.githubusercontent.com/u/117843390?v=4",
+    "portfolio": "https://github.com/klisi7",
+    "skills": ["React", "Javascript", "TailwindCSS", "CSS", "HTML"],
+    "social": {
+      "GitHub": "https://github.com/klisi7",
+      "Twitter": "",
+      "LinkedIn": "https://www.linkedin.com/in/t%C3%B6r%C3%B6k-krist%C3%B3f-2031a9173/"
+    }
+  }
